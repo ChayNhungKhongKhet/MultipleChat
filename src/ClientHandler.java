@@ -53,7 +53,7 @@ public class ClientHandler implements Runnable{
     }
 
     public void sendMsgToOneClient(String msgToClients, String clientUserName) {
-
+        clientUserName = "aljsla";
     }
 
     public void remove() {
